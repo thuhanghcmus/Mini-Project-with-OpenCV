@@ -1,0 +1,1 @@
+Rotating the image correctly by OpenCV
